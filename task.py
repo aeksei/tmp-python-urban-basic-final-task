@@ -32,6 +32,7 @@ def get_count_house_categories(categories: list[str]) -> dict[str, int]:
     :param categories: Список категорий домов.
     :return: Словарь с количеством домов в каждой категории.
     """
+    ...
 
 
 def min_area_residential(houses: list[dict]) -> str:
